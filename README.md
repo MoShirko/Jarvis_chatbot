@@ -1,5 +1,5 @@
 # Jarvis The Chatbot
-Introducing ChatGenius, an advanced AI-powered language model inspired by OpenAI's ChatGPT. Built on cutting-edge technology, this digital assistant is designed to engage users in meaningful, interactive conversations across a wide range of topics. ChatGenius seamlessly understands and generates human-like text, making it an invaluable asset for tasks such as answering questions, offering recommendations, creative writing, and more. With a diverse knowledge base and a continuously learning architecture, ChatGenius is your ultimate conversational companion, revolutionizing the way you communicate, learn, and explore the world around you.
+Introducing Jarvis the chatbot, an advanced AI-powered language model inspired by OpenAI's ChatGPT. Built on cutting-edge technology, this digital assistant is designed to engage users in meaningful, interactive conversations across a wide range of topics. Jarvis the chatbot seamlessly understands and generates human-like text, making it an invaluable asset for tasks such as answering questions, offering recommendations, creative writing, and more. With a diverse knowledge base and a continuously learning architecture, Jarvis the chatbot is your ultimate conversational companion, revolutionizing the way you communicate, learn, and explore the world around you.
 
 ![Screenshot 2023-05-04 2 21 09 PM](https://user-images.githubusercontent.com/109438051/236294982-b84b78db-3a40-4b3b-9664-a384ab94b732.png)
 
@@ -31,7 +31,7 @@ Introducing ChatGenius, an advanced AI-powered language model inspired by OpenAI
 
 ### Tier 1 — 
 
-Front End ✔️
+### Front End ✔️
 
 -Essential components have been incorporated and laid out on the page.
 
@@ -44,7 +44,7 @@ Front End ✔️
 -As a user, I want to see the data nicely organized, so that I can consume and interact with it. Make sure where data is located makes sense from a user perspective
 
 
-Back End ✔️
+### Back End ✔️
 
 -As a user, I want to read entries from the database
 
@@ -57,7 +57,7 @@ Back End ✔️
 -As a user, I expect to do all of the above by accessing RESTful routes
 
 
-Deployment ✔️
+### Deployment ✔️
 
 -Deploy the application using the service of your choice.
 
