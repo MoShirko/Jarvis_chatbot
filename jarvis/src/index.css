@@ -76,7 +76,7 @@ input {
   width: 100%;
   border: none;
   font-size: 20px;
-  
+
   background-color: rgba(255, 255, 255, 0.05);
   padding: 12px 15px;
   border-radius: 5px;
@@ -100,3 +100,8 @@ input {
   justify-content: center;
   align-items: center;
 }
+
+
+
+
+
