@@ -28,7 +28,7 @@ const App = () => {
 
     try {
       const response = await fetch(
-        "https://jarvis-chatbot.vercel.app/completions",
+        "https://api.openai.com/v1/chat/completions",
         options
       );
       const data = await response.json();
