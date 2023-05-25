@@ -28,10 +28,11 @@ const App = () => {
 
     try {
       const response = await fetch(
-        "https://api.openai.com/v1/chat/completions",
+        "https://jarvis-chatbot-4kwv.vercel.app/completions",
         options
       );
       const data = await response.json();
+      console.log('data', data)
       setMessage(data.choices[0].message);
     } catch (error) {
       console.error(error);
