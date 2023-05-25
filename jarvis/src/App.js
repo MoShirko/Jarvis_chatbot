@@ -28,7 +28,7 @@ const App = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:8000/completions",
+        "https://jarvis-chatbot.vercel.app/completions",
         options
       );
       const data = await response.json();
